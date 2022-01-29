@@ -3,8 +3,16 @@ INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
 INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
 
 
-INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Silva', '12345678910', 6500.0, '1994-07-20T10:30:00Z', 2);
-
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Peter Parker', '895.635.750-16', 500.0, '1962-07-05T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bruce Banner', '609.168.590-29', 15500.0, '1962-03-15T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Tony Stark', '953.431.870-13', 1000500.0, '1963-09-10T10:30:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Dr.Estranho', '229.106.590-46', 3500.0, '1963-11-27T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Natasha Romanova', '613.500.640-17', 4500.0, '1964-07-20T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Thor', '701.106.340-47', 600.0, '1962-12-27T10:30:00Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Wanda', '732.188.600-08', 8200.0, '1964-07-20T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Loki', '946.551.940-57', 500.0, '1962-09-01T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Gavião Arqueiro', '238.170.760-37', 9500.0, '1962-07-20T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Prof.Charles Xavier', '085.901.260-30', 7500.0, '1963-07-20T10:30:00Z', 30);
 
 
 
